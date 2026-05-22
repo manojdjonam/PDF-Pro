@@ -1,8 +1,10 @@
+
 {
   "expo": {
     "name": "PDF Pro",
     "slug": "pdf-pro-android",
     "version": "1.0.0",
+    "sdkVersion": "49.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -20,7 +22,13 @@
       }
     },
     "ios": {
-      "bundleIdentifier": "com.fantahere.pdfpro"
+      "bundleIdentifier": "com.fantahere.pdfpro",
+      "supportsTablet": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "933fd9c0-1666-11e7-afca-d380795c5824"
+      }
     }
   }
 }
