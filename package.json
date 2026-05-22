@@ -11,8 +11,14 @@
     "expo": "50.0.0",
     "expo-status-bar": "~1.11.1",
     "expo-splash-screen": "~0.26.4",
+    "expo-document-picker": "~11.10.1",
+    "expo-sharing": "~11.10.0",
+    "expo-file-system": "~16.0.9",
+    "expo-image-picker": "~14.7.1",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "pdf-lib": "1.17.1",
+    "base64-js": "1.5.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
