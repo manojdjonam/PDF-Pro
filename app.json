@@ -1,4 +1,3 @@
-
 {
   "expo": {
     "name": "PDF Pro",
@@ -27,7 +26,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "933fd9c0-1666-11e7-afca-d380795c5824"
+        "projectId": "b6df5ffe-48ec-482a-ac46-a0126cea7e88"
       }
     }
   }
