@@ -3,7 +3,7 @@
     "name": "PDF Pro",
     "slug": "pdf-pro-android",
     "version": "1.0.0",
-    "sdkVersion": "49.0.0",
+    "sdkVersion": "50.0.0",
     "orientation": "portrait",
     "android": {
       "package": "com.fantahere.pdfpro",
@@ -13,7 +13,6 @@
       "eas": {
         "projectId": "b6df5ffe-48ec-482a-ac46-a0126cea7e88"
       }
-    },
-    "plugins": []
+    }
   }
 }
